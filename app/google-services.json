@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "692069526494",
+    "firebase_url": "https://matchmock-b23e5.firebaseio.com",
+    "project_id": "matchmock-b23e5",
+    "storage_bucket": "matchmock-b23e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692069526494:android:dc80c8bc84587d67",
+        "android_client_info": {
+          "package_name": "com.mobileapps.matchmock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692069526494-b0rvgihq45hgg7det0f7esaprbsqqao5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobileapps.matchmock",
+            "certificate_hash": "b10e211fa968f817a79651957e5c455f0adfea55"
+          }
+        },
+        {
+          "client_id": "692069526494-0onsf2ir3tnufls5822j6e18r27ces02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqI7uyavEbMwzGyvyG8e2iIOHmBs46MAw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692069526494-0onsf2ir3tnufls5822j6e18r27ces02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
